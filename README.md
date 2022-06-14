@@ -1,0 +1,1 @@
+# Alura - Terraform: automatize a infraestrutura na nuvem
